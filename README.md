@@ -1,3 +1,2 @@
-# Belajar Git dan GitHub pertama kali
-## 17/02/2022
-### Hellooo
+# Project-01
+Pertama kali pakai GitHub
